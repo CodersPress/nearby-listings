@@ -1,6 +1,6 @@
 <?php /* 
 Plugin Name: Nearby Listings Widget
-Plugin URI: http://coderspress.com/forum/nearby-listings-widget/
+Plugin URI: http://coderspress.com/miscellaneous-plugins/nearby-listings-widget/
 Description: Displays nearby listings - Modified version of PremiumPress Listings Widget
 Version: 2015.0703
 Updated: 3rd July 2015 
